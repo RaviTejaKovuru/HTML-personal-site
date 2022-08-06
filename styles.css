@@ -3,14 +3,12 @@ hr{border-style: none; border-top-style:dotted; border-color: #C70A80; border-wi
 h1{font-size: 32px;
   color:white;
 width: 60%;}
-.h2{color:black;
+.h2{color:#C70A80;
 border-style: none;
 background-color: #FFF323;
 width: 25%;}
-h3{color: blue;
-}
 #h2{color: white;}
-.p1{color: black;}
+.p1{color: white;}
 .i{background-color: #FFF323;
   border-style: dotted;
 border-color: #FFF323}
